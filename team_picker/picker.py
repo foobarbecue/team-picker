@@ -11,22 +11,7 @@ team_picker.picker -- A utility to randomly choose teams
 
 import random, pdb
 
-players=[
-'Richard Lawrence Poythress',
-'Suzanne Michelle Bourret',
-'Greer E Galt',
-'Elizabeth Hannah Tysor',
-'Maribel Jacquez Baeza',
-'Luke Donald Blum',
-'Angelica Caitlyn Perry',
-'Catherine Elaine Nauer',
-'Paige Elizabeth Hansen',
-'Phillip Lawrence Miller',
-'Hilary Susette Kelly',
-'Alexandra Elizabeth Cedola',
-'Alice Susan Maria Clark',
-'Paige Alana Czoski'
-         ]
+players=[Bob, Joe, Ted]
 
 resolutions=[
              'Resolved: Human access to caves must be reduced to protect the resource.',
